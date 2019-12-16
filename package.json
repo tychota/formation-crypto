@@ -1,0 +1,16 @@
+{
+  "name": "formation-crypto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "tychota",
+  "license": "MIT",
+  "dependencies": {
+    "@emotion/styled-base": "^10.0.24",
+    "@theme-ui/prism": "^0.2.50",
+    "mdx-deck": "^3.0.13",
+    "nova-colors": "^2.1.5"
+  },
+  "scripts": {
+    "start": "mdx-deck deck.mdx"
+  }
+}
